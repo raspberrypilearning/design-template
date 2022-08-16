@@ -1,11 +1,9 @@
-title: default-project-template
+title: Design using an 8x8 template
 hero_image: images/banner.png
-description: default-project-template description
+description: Design using an 8x8 template
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Design using an 8x8 template
